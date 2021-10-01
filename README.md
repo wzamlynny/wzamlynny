@@ -1,4 +1,9 @@
-### Hi there 👋
+
+## Hello, I'm Weronika!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzamlynny&show_icons=true&count_private=true&hide=stars&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wzamlynny/)
 
 <!--
 **wzamlynny/wzamlynny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
